@@ -49,3 +49,5 @@ This is a web-based task management application similar to Trello. It allows use
 - **Backend:** Node.js with Express
 - **Database:** MongoDBthe functionality of critical components.
 Test task creation, drag-and-drop functionality, and data persistence to ensure the reliability of the task management board.
+
+https://task-manager-pi-mauve.vercel.app/signup
